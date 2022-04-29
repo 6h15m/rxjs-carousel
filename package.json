@@ -1,0 +1,10 @@
+{
+  "name": "rxjs-carousel",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "6h15m",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^7.5.5"
+  }
+}
